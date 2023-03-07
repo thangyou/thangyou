@@ -3,13 +3,6 @@
 
 ~.. 계옮중 ••• 🌠
 
-## University
-_2017.02 ~ 2024.02_
-- Major : Vietnamese (bachelor's degree)
-- Dual : Computer Engineering (bachelor's degree)
-- Minor : Convergence of Smart IT and Language (Link Enterprise Organization)
-
-
 ## Tech
 > experience in devloping
 
