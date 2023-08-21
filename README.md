@@ -3,7 +3,7 @@
   ### Thangyou
      
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ab314)](https://solved.ac/ab314)
-  <a href="https://hypnotic-rabbit-306.notion.site/Resume-d717dff4e8864007a012d3ed54149a65?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://hypnotic-rabbit-306.notion.site/Resume-d717dff4e8864007a012d3ed54149a65?pvs=4"><img src="https://img.shields.io/badge/Thangyou-ffffff?style=badge&logo=notion&logoColor=black"/></a>
   ---
 
 </div>
