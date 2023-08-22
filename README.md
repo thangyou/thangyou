@@ -4,7 +4,7 @@
   
    
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ab314)](https://solved.ac/ab314)
-  <a href="https://hypnotic-rabbit-306.notion.site/Resume-d717dff4e8864007a012d3ed54149a65?pvs=4"><img src="https://img.shields.io/badge/Thangyou-ffffff?style=badge&logo=notion&logoColor=black"/></a> 
+  <a href="https://hypnotic-rabbit-306.notion.site/05-Adversarial-Search-3723da08607342aa94b3c0279bb02515?pvs=4"><img src="https://img.shields.io/badge/Thangyou-ffffff?style=badge&logo=notion&logoColor=black"/></a> 
   ---
 
 </div>
